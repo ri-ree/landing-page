@@ -1,26 +1,26 @@
 body {
     display: flex;
     flex-direction: column;
+    flex: 1;
 }
 
 .header {
-    flex: 1;
+    
     background-color: #1F2937;
 }
 
 .information {
-    flex: 1;
+    
 }
 
 .quote {
-    flex: 1;
+    
 }
 
 .action {
-    flex: 1;
+
 }
 
 .footer {
-    flex: 1;
-
+    display: flex;
 }
