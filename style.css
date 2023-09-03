@@ -5,20 +5,20 @@ body {
 }
 
 .header {
-    
     background-color: #1F2937;
+    padding: 30px;
 }
 
 .information {
-    
+    padding: 30px;
 }
 
 .quote {
-    
+    padding: 30px;
 }
 
 .action {
-
+    padding: 30px;
 }
 
 .footer {
