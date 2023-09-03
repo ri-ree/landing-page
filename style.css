@@ -8,3 +8,24 @@ body {
     flex: 1;
     background-color: #1F2937;
 }
+
+.information {
+    display: flex;
+    flex: 1;
+}
+
+.quote {
+    display: flex;
+    flex: 1;
+}
+
+.action {
+    display: flex;
+    flex: 1;
+}
+
+.footer {
+    display: flex;
+    flex: 1;
+
+}
