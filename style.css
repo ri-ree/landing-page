@@ -6,23 +6,33 @@ body {
 
 .header {
     background-color: #1F2937;
-    padding: 30px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .information {
-    padding: 30px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .quote {
     background-color: #E5E7EB;
-    padding: 30px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .action {
-    padding: 30px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer {
     background-color: #1F2937;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
