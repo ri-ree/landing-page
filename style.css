@@ -7,18 +7,21 @@ body {
 .header {
     background-color: #1F2937;
     padding: 20px;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .information {
     padding: 20px;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .quote {
     background-color: #E5E7EB;
+    display: flex;
     padding: 20px;
     justify-content: center;
     align-items: center;
@@ -26,6 +29,7 @@ body {
 
 .action {
     padding: 20px;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
