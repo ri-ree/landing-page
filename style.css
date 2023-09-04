@@ -6,11 +6,14 @@ body {
 
 .header {
     background-color: #1F2937;
-    padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.small-header {
+    margin-bottom: 15px;
 }
 
 .information {
