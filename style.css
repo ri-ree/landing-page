@@ -13,7 +13,13 @@ body {
 }
 
 .small-header {
+    display: flex;
+    flex-direction: row;
     margin-bottom: 15px;
+}
+
+.logo {
+    color: #F9FAF8;
 }
 
 .information {
