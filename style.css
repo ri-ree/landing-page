@@ -8,18 +8,23 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .small-header {
     display: flex;
     flex-direction: row;
     margin-bottom: 15px;
+    justify-content: space-between;
 }
 
 .logo {
+    display: flex;
     color: #F9FAF8;
+}
+
+.right-links {
+    display: flex;
+    color: #E5E7EB;
 }
 
 .information {
