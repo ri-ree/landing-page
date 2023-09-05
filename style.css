@@ -29,6 +29,11 @@ body {
     color: #E5E7EB;
 }
 
+img {
+    max-height: 200px;
+    max-width: 100%;
+}
+
 .information {
     padding: 20px;
     display: flex;
