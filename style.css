@@ -22,11 +22,18 @@ body {
 .logo {
     display: flex;
     color: #F9FAF8;
+    font-weight: 700;
 }
 
 .right-links {
     display: flex;
     color: #E5E7EB;
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
 }
 
 img {
