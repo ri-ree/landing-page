@@ -33,12 +33,14 @@ body {
 }
 
 .title {
+    display: flex;
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
 }
 
 .text {
+    display: flex;
     color: #E5E7EB;
     font-size: 24px;
 }
@@ -49,8 +51,15 @@ body {
 }
 
 img {
+    display: flex;
     max-height: 500px;
     max-width: 100%;
+}
+
+#one {
+    display: flex;
+    margin-top: 5px;
+    padding: 4px;
 }
 
 .information {
