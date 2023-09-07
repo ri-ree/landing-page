@@ -66,6 +66,7 @@ img {
     color: white;
     font-weight: 700;
     border-radius: 8px;
+    border: none;
 }
 
 .information {
