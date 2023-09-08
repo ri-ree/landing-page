@@ -74,6 +74,16 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+
+.info {
+    display: flex;
+}
+
+.all-flowers {
+    display: flex;
+    gap: 10px;
 }
 
 .quote {
