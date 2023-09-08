@@ -85,6 +85,10 @@ img {
     font-weight: 900;
 }
 
+.flower1, .flower2, .flower3, .flower4 {
+    max-width: 150px;
+}
+
 .all-flowers {
     display: flex;
     gap: 10px;
@@ -94,6 +98,10 @@ img {
 .flowers {
     max-height: 100px;
     max-width: 100%;
+}
+
+.subtext {
+    margin-top: 5px;
 }
 
 .quote {
