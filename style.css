@@ -62,7 +62,7 @@ img {
     padding: 4px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #24a0ed;
+    background-color: #3882F6;
     color: white;
     font-weight: 700;
     border-radius: 8px;
@@ -79,6 +79,10 @@ img {
 
 .info {
     display: flex;
+    padding-bottom: 25px;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
 }
 
 .all-flowers {
