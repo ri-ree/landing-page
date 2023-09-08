@@ -84,6 +84,12 @@ img {
 .all-flowers {
     display: flex;
     gap: 10px;
+    justify-content: center;
+}
+
+.flowers {
+    max-height: 100px;
+    max-width: 100%;
 }
 
 .quote {
