@@ -113,9 +113,17 @@ img {
 .quote {
     background-color: #E5E7EB;
     display: flex;
-    padding: 20px;
+    flex-direction: column;
+    padding: 100px;
+    color: #1F2937;
+    font-size: 36px;
     justify-content: center;
     align-items: center;
+}
+
+.author {
+    display: flex;
+    align-self: flex-end;
 }
 
 .action {
