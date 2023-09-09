@@ -71,6 +71,7 @@ img {
 
 .information {
     padding: 20px;
+    padding-bottom: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -79,7 +80,8 @@ img {
 
 .info {
     display: flex;
-    padding-bottom: 25px;
+    padding-top: 30px;
+    padding-bottom: 50px;
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
