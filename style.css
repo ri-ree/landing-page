@@ -89,6 +89,9 @@ img {
 
 .flower1, .flower2, .flower3, .flower4 {
     max-width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .all-flowers {
