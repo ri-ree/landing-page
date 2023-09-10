@@ -131,6 +131,8 @@ img {
 
 .action {
     padding: 20px;
+    padding-top: 75px;
+    padding-bottom: 75px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,6 +140,8 @@ img {
 
 .blue {
     background-color: #3882F6;
+    padding: 20px;
+    border-radius: 25px;
 }
 
 .footer {
