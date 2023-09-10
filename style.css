@@ -115,6 +115,8 @@ img {
     display: flex;
     flex-direction: column;
     padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
     color: #1F2937;
     font-size: 36px;
     justify-content: center;
@@ -124,6 +126,7 @@ img {
 .author {
     display: flex;
     align-self: flex-end;
+    font-weight: 700;
 }
 
 .action {
@@ -131,6 +134,10 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.blue {
+    background-color: #3882F6;
 }
 
 .footer {
