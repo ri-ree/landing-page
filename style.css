@@ -140,10 +140,15 @@ img {
 
 .blue {
     background-color: #3882F6;
-    padding: 20px;
+    padding: 50px;
     border-radius: 5px;
     color: #F9FAF8;
     display: flex;
+    gap: 100px;
+}
+
+.sign-up-title {
+    font-weight: 700;
 }
 
 .footer {
