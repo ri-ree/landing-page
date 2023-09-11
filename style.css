@@ -48,6 +48,7 @@ body {
 .content {
     display: flex;
     flex: 1;
+    gap: 20px;
 }
 
 img {
@@ -116,8 +117,8 @@ img {
     display: flex;
     flex-direction: column;
     padding: 100px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
     color: #1F2937;
     font-size: 36px;
     justify-content: center;
